@@ -1,0 +1,23 @@
+.picture-avatar img {
+    margin: 0 auto 30px auto;
+}
+
+.list-group-item .user-info {
+    position: relative;
+    top: 5px;
+}
+
+.list-group-item .img-responsive {
+    float: left;
+    margin-right: 20px;
+}
+
+.search-bar {
+    text-align: right;
+    margin-bottom: 20px;
+}
+
+.error {
+    padding-top: 30px;
+    color: white;
+}
